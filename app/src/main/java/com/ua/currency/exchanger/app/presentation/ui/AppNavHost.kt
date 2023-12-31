@@ -1,12 +1,7 @@
 package com.ua.currency.exchanger.app.presentation.ui
 
-import android.text.TextUtils.replace
-import android.view.View
-import androidx.compose.foundation.layout.fillMaxSize
+
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableIntStateOf
-import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
