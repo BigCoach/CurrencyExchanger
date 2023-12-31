@@ -49,4 +49,9 @@ dependencies {
     implementation(projects.coroutine)
     implementation(platform(libs.compose.bom))
     implementation(libs.compose.ui)
+
+    testImplementation(libs.test.junit)
+    testImplementation(libs.test.mockito.kotlin)
+    testImplementation(libs.test.hamcrest)
+    testImplementation(libs.test.konsist)
 }

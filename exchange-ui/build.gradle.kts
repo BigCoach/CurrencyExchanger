@@ -53,4 +53,9 @@ dependencies {
     implementation(libs.compose.ui.tooling.preview)
     debugImplementation(libs.debug.compose.ui.tooling)
 
+    testImplementation(libs.test.junit)
+    testImplementation(libs.test.mockito.kotlin)
+    testImplementation(libs.test.hamcrest)
+    testImplementation(libs.test.konsist)
+
 }

@@ -86,6 +86,11 @@ dependencies {
     debugImplementation(libs.debug.compose.ui.tooling)
     debugImplementation(libs.debug.compose.ui.manifest)
 
+    testImplementation(libs.test.junit)
+    testImplementation(libs.test.mockito.kotlin)
+    testImplementation(libs.test.hamcrest)
+    testImplementation(libs.test.konsist)
+
 }
 
 kapt {
