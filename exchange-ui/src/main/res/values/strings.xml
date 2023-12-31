@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="failed_to_retrieve_balance">Failed to retrieve balance</string>
+    <string name="insufficient_balance">Insufficient balance</string>
+    <string name="failed_to_retrieve_currency_rates">Failed to retrieve currency rates</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="failed_to_update_rates">Failed to update rates</string>
+    <string name="conversion_not_calculated">Conversion not calculated</string>
+    <string name="failed_to_execute_conversion">Failed to execute conversion</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="done">Done</string>
+    <string name="my_balances">My balances</string>
+    <string name="currency_exchange">Currency exchange</string>
+    <string name="amount_to_sell_exceeds_balance">Amount to sell exceeds balance</string>
+    <string name="submit">Submit</string>
+</resources>
